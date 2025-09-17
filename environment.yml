@@ -1,4 +1,4 @@
-name: stylegan3
+name: GGIA
 channels:
   - pytorch
   - nvidia
