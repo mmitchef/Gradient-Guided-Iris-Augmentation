@@ -29,7 +29,7 @@ python gradient_guided_iris_augmentation.py \
 
 --seed : Random seed for reproducibility.
 
---sharp_inc : Whether to increase image sharpness. (select one of these iris_inc, iris_dec, pupil_inc, puil_dec, sharp_inc, sharp_dec, pir_inc, pir_dec)
+--sharp_inc : Treu/False (select one of these iris_inc, iris_dec, pupil_inc, puil_dec, sharp_inc, sharp_dec, pir_inc, pir_dec)
 
 --use_identity : Enable identity loss during augmentation.
 
