@@ -5,7 +5,7 @@ This repository provides code for controlled augmentation of human iris images b
 ## Installation
 ```
 conda env create -f environment.yml
-conda activate <your_env_name>
+conda activate GGIA
 ```
 ## Usage
 
